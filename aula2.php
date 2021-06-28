@@ -1,7 +1,9 @@
 <?php 
 $idade = 21;
 $idadeDaquiaDezAnos = $idade + 10;
+echo $idadeDaquiaDezAnos;
 /**
+ * soma => (+)
  *  subtração => (-)
  * divisão => (/)
  * Multiplicação => (*)
@@ -9,4 +11,4 @@ $idadeDaquiaDezAnos = $idade + 10;
  * resto => (%)
  * 
  */
-echo $idadeDaquiaDezAnos;
+
