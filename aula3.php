@@ -12,6 +12,6 @@ $dec = 21.9/** Double ou float para decimal */;
 $tipo = gettype($dec);
 echo "{$tipo} e ";
 
-$boll = True/** ou False para resultados Boleanos o tipo é Boolean*/;
+$boll = True/** True ou False para resultados Boleanos o tipo é Boolean*/;
 $tipo = gettype($boll);
 echo "{$tipo}.";
