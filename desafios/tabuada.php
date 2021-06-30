@@ -7,7 +7,7 @@ $numero = 2;// essa é a variável
 echo "Tabuada do número $numero:" .PHP_EOL; /** eu acrescentei uma apresentação
 *da tabuada de forma mais amigável*/
 for($i=1;$i<=10;$i++){
-  echo"$numero * $i = " . $numero * $i . PHP_EOL;
+  echo"$numero x $i = " . $numero * $i . PHP_EOL;
 }
 /**Demonstração da execução:
  *inicio da execução* 
