@@ -1,6 +1,7 @@
 <?php
-/** estruturas condicionais:
+/** estruturas Lógicas:
  * igual (==)
+ * diferente (!=)
  * maior (>)
  * menor (<)
  * maior ou igual (>=)
