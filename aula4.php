@@ -4,4 +4,5 @@
 $saudacao="Olá";
 $nome = "Caio";
 $saudacao2="Tudo Bem";
-echo "$saudacao! $nome $saudacao2?";
+echo "$saudacao! $nome $saudacao2?". PHP_EOL;
+echo "Quebrei linha com PHP_EOL";
