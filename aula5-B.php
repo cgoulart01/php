@@ -36,3 +36,7 @@ echo "Voce tem $idade anos. Você não pode entrar por que não está acompanhad
 }else{
 echo "Voce tem $idade anos. Você não pode entrar a idade idade miníma acompanhada é de 16 anos para entrar.";
 }
+/** esse caso é o código anterior eu coloquei a complexidade em que menores de 18 
+ * a partir de 16 podem entrar com a condição de estaracompanhado de um adulto,
+ * levando em conta que menores de 16 mesmo acompanhados de um adulto não podem entrar.
+ */

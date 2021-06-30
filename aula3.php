@@ -1,4 +1,7 @@
 <?php
+/**
+ * Tipos primitivos de váriáveis
+ */
 echo "Tipos Primitivos das variáveis:\n";
 $nome = "Caio"/** String para texto */;
 $tipo = gettype($nome);
