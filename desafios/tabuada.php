@@ -12,14 +12,14 @@ for($i=1;$i<=10;$i++){
 /**Demonstração da execução:
  *inicio da execução* 
  Tabuada do número dois:
- 2 * 1 = 2
- 2 * 2 = 4
- 2 * 3 = 6
- 2 * 4 = 8
- 2 * 5 = 10
- 2 * 7 = 14
- 2 * 8 = 16
- 2 * 9 = 18
- 2 * 10 = 20
+ 2 x 1 = 2
+ 2 x 2 = 4
+ 2 x 3 = 6
+ 2 x 4 = 8
+ 2 x 5 = 10
+ 2 x 7 = 14
+ 2 x 8 = 16
+ 2 x 9 = 18
+ 2 x 10 = 20
  *fim da execução*
  */
