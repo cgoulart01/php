@@ -8,7 +8,7 @@
  * uma ou outra condição é valida ( || ou or )
  * as duas condições tem que ser validas (&& ou and) 
  */
-$idade = 16;
+$idade = 12;
 $idade2 = 16; 
 $numPessoas= 2;
 
@@ -30,7 +30,7 @@ echo "Vejo que você tem $idade anos. Então pode entrar";
     }
 }
 elseif($idade<16&&$numPessoas>1){
-    echo "Você tem $idade e não pode entrar por que a idade miníma acompanhada é de 16 anos";
+    echo "Você tem $idade e não pode entrar por que a idade miníma acompanhada é de 16 anos.";
 }elseif($idade>=16&&$numPessoas<=1){
 echo "Voce tem $idade anos. Você não pode entrar por que não está acompanhado.";
 }else{
