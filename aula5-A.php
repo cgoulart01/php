@@ -8,7 +8,7 @@
  * uma ou outra condição é valida ( || ou or )
  * as duas condições tem que ser validas (&& ou and) 
  */
-$idade = 18;
+$idade = 19;
 
 echo "Olá mundo!" . PHP_EOL;
 echo "Eu tenho \"$idade\" anos";
