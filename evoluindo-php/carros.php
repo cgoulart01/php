@@ -7,7 +7,7 @@ $carros = [
     ],
     'KLM-1324' => [
         'marca' => 'Ford',
-        'modelo' => 'Fiesta'
+        'modelo' => 'Focus'
     ],
     'OPN-5612' => [
         'marca' => 'Fiat',
